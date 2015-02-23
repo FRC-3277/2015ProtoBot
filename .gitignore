@@ -1,1 +1,5 @@
 /bin/
+/build.properties
+*.xml
+*.class
+*.jar
